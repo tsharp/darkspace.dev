@@ -1,7 +1,13 @@
 baseURL = 'https://blog.darkspace.dev/'
 languageCode = 'en-us'
-title = 'Security Blog'
+title = "Travis' Blog"
 publishDir = '_site'
 theme = 'noteworthy'
 RelativeURLs=true
 CanonifyURLs=true
+
+[params]
+  email = 'travis@darkspace.dev'
+  linkedin = 'https://www.linkedin.com/in/travis-sharp-09732130'
+  github = 'https://github.com/tsharp'
+  codepen = 'https://codepen.io/tsharp-the-lessful'
