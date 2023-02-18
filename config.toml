@@ -1,3 +1,4 @@
 baseURL = 'https://blog.darkspace.dev/'
 languageCode = 'en-us'
 title = 'Security Blog'
+publishDir = '_site'
