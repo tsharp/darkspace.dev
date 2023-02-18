@@ -3,3 +3,5 @@ languageCode = 'en-us'
 title = 'Security Blog'
 publishDir = '_site'
 theme = 'noteworthy'
+RelativeURLs=true
+CanonifyURLs=true
