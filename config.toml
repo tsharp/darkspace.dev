@@ -5,9 +5,23 @@ publishDir = '_site'
 theme = 'noteworthy'
 RelativeURLs=true
 CanonifyURLs=true
+googleAnalytics = 'G-38HV7EXD8G'
+
+[[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
 
 [params]
   email = 'travis@darkspace.dev'
   linkedin = 'https://www.linkedin.com/in/travis-sharp-09732130'
   github = 'https://github.com/tsharp'
   codepen = 'https://codepen.io/tsharp-the-lessful'
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = false
