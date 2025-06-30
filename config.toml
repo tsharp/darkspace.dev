@@ -1,6 +1,6 @@
 baseURL = 'https://blog.darkspace.dev/'
 languageCode = 'en-us'
-title = "Travis' Blog"
+title = "Travis the Dev - Blog"
 publishDir = '_site'
 theme = 'noteworthy'
 RelativeURLs=true
@@ -14,10 +14,10 @@ googleAnalytics = 'G-38HV7EXD8G'
     weight = 2
 
 [params]
-  email = 'travis@darkspace.dev'
+  email = 'travis@kuipersys.com'
   linkedin = 'https://www.linkedin.com/in/travis-sharp-09732130'
   github = 'https://github.com/tsharp'
-  codepen = 'https://codepen.io/tsharp-the-lessful'
+  codepen = 'https://codepen.io/tsharp-the-dev'
 
 [privacy]
   [privacy.googleAnalytics]
